@@ -1,4 +1,12 @@
-# FamilyCalendar · Household Operations & AI Planner
+<p align="center">
+  <img src="./docs/assets/logo.png" alt="FamilyCalendar Logo" width="110" />
+</p>
+
+<h1 align="center">FamilyCalendar · Household Operations &amp; AI Planner</h1>
+
+<p align="center">
+  <img src="./docs/assets/video-cover-16x9.png" alt="FamilyCalendar Preview Banner" width="820" />
+</p>
 
 A lightweight, self-hosted **family operations calendar** built on **Cloudflare Workers + Workers Static Assets + D1 (SQLite) + Hono + React + Gemini AI**.
 
