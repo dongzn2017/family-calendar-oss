@@ -1,0 +1,7 @@
+# Copy to .dev.vars for local development (never commit .dev.vars)
+# Optional: Google AI Studio API key. If left empty and DEMO_AI_MODE=true,
+# the app uses a built-in offline demo parser so you can test the AI review UI.
+GEMINI_API_KEY=
+
+# Optional: Shared secret used by Google Apps Script when pushing selected emails
+GMAIL_INGEST_SECRET=change-me-to-a-long-random-secret
